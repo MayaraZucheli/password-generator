@@ -31,19 +31,19 @@ This script allows users to create strong, customizable passwords based on selec
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-generator.git
+git clone https://github.com/MayaraZucheli/password.git
 ```
 
 ### Navigate to the folder
 
 ```bash
-cd password-generator
+cd password
 ```
 
 ### Run the script
 
 ```bash
-python password_generator.py
+python password.py
 ```
 
 ---
