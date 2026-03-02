@@ -31,13 +31,13 @@ This script allows users to create strong, customizable passwords based on selec
 ### Clone the repository
 
 ```bash
-git clone https://github.com/MayaraZucheli/password.git
+git clone https://github.com/MayaraZucheli/password-generator.git
 ```
 
 ### Navigate to the folder
 
 ```bash
-cd password
+cd password-generator
 ```
 
 ### Run the script
