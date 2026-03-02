@@ -71,7 +71,7 @@ Strong password
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me practice:
 
